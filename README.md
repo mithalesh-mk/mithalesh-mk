@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mithalesh Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Mithalesh Kumar</h1>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mithalesh-mk&label=Profile%20views&color=0e75b6&style=flat" alt="mithalesh-mk" /> </p>
 
