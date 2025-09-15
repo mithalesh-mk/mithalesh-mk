@@ -2,7 +2,6 @@
 <p align="center">
   <img src="cover.png" alt="cover" width="100%" />
 </p>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGzDdnZFzo&#x2F;VRIoVphijRT6a_FqB9XWuQ&#x2F;view?utm_content=DAGzDdnZFzo&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Yellow and Blue Bold Geometric Software Developer LinkedIn Banner</a> by Mithalesh Kumar
 
 <h1 align="center">Hey there 👋, I'm Mithalesh Kumar</h1>
 <h3 align="center">🚀 Software Developer | Web Developer | Test Automation Engineer</h3>
